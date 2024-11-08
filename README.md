@@ -28,9 +28,14 @@ src="https://img.shields.io/twitter/follow/imesvar?logo=twitter&style=for-the-ba
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<h3 align="center"><b>My GitHub Stats</b></h3>
 
-<a href="http://www.github.com/esvar499"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=esvar499&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<div align="center">
+  <a href="http://www.github.com/esvar499">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=esvar499&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+  </a>
+</div>
+
 
 
 
