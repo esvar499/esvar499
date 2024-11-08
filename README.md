@@ -1,25 +1,13 @@
-# 👋 Hi, I'm Sai Esvar P
+# 👋 Hi, I'm Sai Esvar P ![Profile Image](https://drive.google.com/uc?export=view&id=1GR9a710awg9i8e4GErHFxP7XW7HAqAVy)
 
-I am a **dedicated and detail-focused individual** with a strong foundation in **Computer Science**, **Web Development**, and **Technical Support**. My goal is to apply my knowledge and skills in a practical environment, contributing effectively to the success of organizations while continuously learning and growing professionally through hands-on experience. 🚀
+I'm a **dedicated** and **detail-oriented** individual with expertise in **Computer Science**, **Web Development**, and **Technical Support**. I am passionate about applying my skills in real-world settings, driving growth, and continuously learning. 🚀
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai%20Esvar%20P-blue?style=flat&logo=linkedin)](http://www.linkedin.com/in/sai-esvar-p-27oct2001)  
 📧 **Email**: [saiesvarp@gmail.com](mailto:saiesvarp@gmail.com)  
 📍 **Location**: Gandhipuram, Tamil Nadu, India  
 📞 **Phone**: +91 9842136459  
-
----
-
-## 📱 Connect With Me
-
-You can find me on these platforms:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://github.com/esvar499)  
-[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium)](https://medium.com/@saiesvarp)  
-[![X](https://img.shields.io/badge/X-blue?style=flat&logo=x)](https://x.com/imesvar)  
-[![Dev.to](https://img.shields.io/badge/Dev.to-blue?style=flat&logo=dev.to)](https://app.daily.dev/saiesvarp)  
-[![Linktree](https://img.shields.io/badge/Linktree-black?style=flat&logo=linktree)](https://linktr.ee/sai_esvar)  
+🔗 [LinkedIn](http://www.linkedin.com/in/sai-esvar-p-27oct2001) | [GitHub](https://github.com/esvar499)
 
 ---
 
@@ -40,9 +28,8 @@ You can find me on these platforms:
 ## 🏆 Achievements
 
 ### **Honeywell India Youth Techathon 2022** 🏅  
-*April 2022 - June 2022*  
-- Secured **2nd place** for developing a **First Aid Bot** using UiPath. 🤖  
-- Earned a **participation certificate** for outstanding performance. 🏆
+**2nd Place** for developing a **First Aid Bot** using UiPath. 🤖  
+**Participated** in the event for outstanding performance. 🏆
 
 ---
 
@@ -51,23 +38,20 @@ You can find me on these platforms:
 ### **Web Development Intern** 💻  
 **GeekBase Technology** · Namakkal, Tamil Nadu, India (Remote)  
 _August 2024 - September 2024_  
-- Developed expertise in web development technologies including **MySQL**, **Spring Boot**, **Java**, **HTML**, **CSS**, and **JavaScript**. 💻  
-- Worked on real-world projects involving design, implementation, and maintenance of dynamic web applications. 🔧  
-- Utilized **GitHub** for version control, ensuring collaboration and efficient workflow. 🛠️
+- Specialized in **MySQL**, **Spring Boot**, **Java**, **HTML**, **CSS**, and **JavaScript** to build dynamic web applications.  
+- Collaborated via **GitHub** for version control.
 
 ### **Product Management Apprentice** 📦  
 **Startup201** · Tamil Nadu, India (Remote)  
 _April 2024 - June 2024_  
-- Gained hands-on experience with **User Experience (UX) design**, **market research**, **agile methodologies**, and **stakeholder engagement**. 📊  
-- Collaborated with cross-functional teams to drive product innovation and efficiency. 💡
+- Gained experience in **UX Design**, **Market Research**, and **Agile Methodologies** to enhance product workflows.  
+- Drove innovation with cross-functional teams.
 
 ### **Technical Support** 🖥️  
-- Provided **technical support** to end-users by troubleshooting software and hardware issues and ensuring smooth operations. ⚙️  
-- Delivered **quick and effective solutions** to clients, contributing to customer satisfaction. 👍
+- Provided **software/hardware troubleshooting** and delivered **quick solutions** to clients for smooth operations.
 
 ### **Frontend Developer** 🌐  
-- Focused on creating **user-friendly web interfaces** using front-end technologies. 👨‍💻  
-- Designed and implemented **responsive web pages** using **HTML**, **CSS**, and **Bootstrap** to ensure usability and accessibility. 📱
+- Developed **responsive web pages** with **HTML**, **CSS**, and **Bootstrap** ensuring usability and accessibility.
 
 ---
 
@@ -77,38 +61,37 @@ _April 2024 - June 2024_
 _April 2022 - June 2022_  
 - **Back End**: UiPath Studio  
 - **Front End**: UiPath Apps  
-- **Purpose**: Provides users with various **home remedies** for common health issues. 🌱
+- **Purpose**: A web app offering home remedies for common health issues. 🌱
 
 ---
 
-## 🥇 Awards & Certifications
+## 🥇 Certifications
 
-- **CSS & Bootstrap Mastery** 🖌️: Expertise in creating responsive and modern web designs.
-- **HTML Mastery** 🌐: Proficient in using HTML to structure dynamic web pages.
-- **Introduction to Software Product Management** 📋: Knowledge in managing products from concept to market.
-- **Get Started with Jira** 📊: Skilled in **Agile project management** using Jira.
-- **Google Ads for Beginners** 📈: Knowledge in **digital marketing** and online advertising strategies.
-- **Foundations of User Experience (UX) Design with Figma** 🎨: Skills in wireframing, prototyping, and user-centered design using **Figma**.
+- **CSS & Bootstrap Mastery** 🖌️
+- **HTML Mastery** 🌐
+- **Software Product Management** 📋 (Introduction to Software Product Management)
+- **Agile Project Management** 📊 (Get Started with Jira)
+- **Digital Marketing** 📈 (Google Ads for Beginners)
+- **UX Design with Figma** 🎨 (Foundations of User Experience)
 
 ---
 
 ## 🔧 Tech Skills
 
-- **Frontend Development**: HTML, CSS, Bootstrap, Wix Studio  
-- **Backend Development**: MySQL, Spring Boot, Java  
-- **Development Tools**: UiPath, Figma, GitHub  
+- **Frontend**: HTML, CSS, Bootstrap, Wix Studio  
+- **Backend**: MySQL, Spring Boot, Java  
+- **Tools**: UiPath, Figma, GitHub  
 - **Digital Marketing**: Google Ads, Google Analytics  
-- **Project Management Tools**: Jira  
-- **Technical Support**: Troubleshooting, Software/Hardware issue resolution
+- **Project Management**: Jira
 
 ---
 
-## 🌟 Key Qualities
+## 🌟 Key Strengths
 
 - 🎯 **Self-Discipline**
 - 🧠 **Logical Thinking**
 - 💬 **Effective Communication**
-- 🛠️ **Problem-Solving**
+- 🛠️ **Problem Solving**
 - 🔍 **Attention to Detail**
 - 🚀 **Self-Motivation**
 - ⏳ **Time Management**
@@ -118,25 +101,20 @@ _April 2022 - June 2022_
 ## 💡 Interests
 
 - 📈 **Product Management**
-- 📊 **Digital Marketing**
 - 💻 **Frontend Development**
 - 🛠️ **Technical Support**
 - 🖌️ **User Experience (UX) Design**
 
 ---
 
-Thank you for visiting my profile! Feel free to connect with me through the [LinkedIn link](http://www.linkedin.com/in/sai-esvar-p-27oct2001) or email me at [saiesvarp@gmail.com](mailto:saiesvarp@gmail.com). Let's create something amazing together! 🚀
+### Thank you for visiting my profile!  
+Let's connect and create something amazing together! 🚀
 
 ---
 
 ## 🦸‍♂️ GitHub Stats
 
-Here are my GitHub stats:
+![Sai Esvar P's GitHub Stats](https://github-readme-stats.vercel.app/api?username=esvar499&count_private=true&show_icons=true&hide_title=true&hide=prs&hide_border=true&theme=radical)
 
-### **GitHub Stats**  
-[![Sai Esvar P's GitHub Stats](https://github-readme-stats.vercel.app/api?username=esvar499&count_private=true&show_icons=true&hide_title=true&hide=prs&hide_border=true&theme=radical)](https://github.com/esvar499)
-
-### **Top Languages**  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esvar499&count_private=true&layout=compact&hide_border=true&theme=radical)](https://github.com/esvar499)
-
----
+### Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esvar499&count_private=true&layout=compact&hide_border=true&theme=radical)
