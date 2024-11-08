@@ -98,10 +98,12 @@ Located in Gandhipuram, Tamil Nadu, I have a strong foundation in frontend and b
   </a> 
   <br><br> 
   <a href="http://www.github.com/esvar499">
-    <img src="https://github-readme-stats.vercel.app/api?username=esvar499&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Sai Esvar's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=esvar499&show_icons=true&count_private=true&hide_title=true&hide_border=true&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&title_color=0891b2" alt="Sai Esvar's GitHub Stats" />
   </a> 
   <br><br> 
   <a href="http://www.github.com/esvar499">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=esvar499&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
   </a> 
+</div>
+
 </div>
