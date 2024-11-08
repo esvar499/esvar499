@@ -1,63 +1,172 @@
-# Hello, I'm SAI ESVAR P 👋
+# 👋 Hi, I'm Sai Esvar P
 
-Welcome to my GitHub profile! I’m a **Fresher | Digital Marketing Tools Enthusiast | Frontend Web Developer** passionate about leveraging technology to create meaningful solutions. I’m always eager to learn, grow, and contribute fresh ideas in dynamic teams.
+I am a **dedicated and detail-focused individual** with a strong foundation in **Computer Science**, **Web Development**, and **Technical Support**. My goal is to apply my knowledge and skills in a practical environment, contributing effectively to the success of organizations while continuously learning and growing professionally through hands-on experience.
 
-## 🌟 About Me
+---
 
-I am a motivated **Web Developer** skilled in **website development**, **digital marketing**, and **SEO optimization**. I am passionate about continuous learning, always on the lookout for innovative solutions that drive growth. My goal is to contribute to projects that create engaging online experiences and improve user engagement.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai%20Esvar%20P-blue?style=flat&logo=linkedin)](http://www.linkedin.com/in/sai-esvar-p-27oct2001)  
+📧 **Email**: [saiesvarp@gmail.com](mailto:saiesvarp@gmail.com)  
+📍 **Location**: Gandhipuram, Tamil Nadu, India  
+📞 **Phone**: +91 9842136459  
 
-Currently, I'm studying at **KGISL Institute of Information Management**, specializing in **Computer Science**, and I’m open to roles such as **UI Designer**, **Digital Marketing Manager**, and **UX Designer**.
+---
 
-## 💻 Technologies & Tools
+## 📱 Connect With Me
 
-- **Languages**: JavaScript, HTML, CSS, Java, SQL
-- **Frameworks & Libraries**: React, Node.js, Spring Boot
-- **Tools & Platforms**: Git, GitHub, Docker, Hootsuite, Canva, Google Analytics
-- **Databases**: MySQL, MongoDB
-- **Others**: SEO Optimization, UI/UX Design, Digital Marketing
+You can find me on these platforms:
 
-## 🚀 Current Projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://github.com/esvar499)  
+[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium)](https://medium.com/@saiesvarp)  
+[![X](https://img.shields.io/badge/X-blue?style=flat&logo=x)](https://x.com/imesvar)  
+[![Dev.to](https://img.shields.io/badge/Dev.to-blue?style=flat&logo=dev.to)](https://app.daily.dev/saiesvarp)  
+[![Linktree](https://img.shields.io/badge/Linktree-black?style=flat&logo=linktree)](https://linktr.ee/sai_esvar)  
 
-- **[Personalized Podcast App](https://github.com/your-username/podcast-app)**: Building an app with personalized podcast recommendations, focused on creating an engaging user experience.
-- **[Health & Wellness with Technology](https://github.com/your-username/health-tech-project)**: A project combining AI and technology to improve mental health and overall well-being.
-- **[Mann Ki Baat Quiz Participation](https://quiz.mygov.in/)**: Celebrating 10 years of the radio program with an educational quiz.
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs)
+---
 
 ## 🎓 Education
 
-- **KGISL Institute of Information Management**: BS in Computer Science (2023-2025)
-- **KG College of Arts and Science**: Bachelor of Science - Computer Science (2020-2023)
+### **Post Graduate**  
+**KGISL Institute of Information Management**  
+**Master of Computer Application (MCA)**  
+2023 - Present
 
-## 💡 Experience
+### **Bachelor's Degree**  
+**KG College of Arts and Science**  
+**B.Sc. Computer Science**  
+2020 - 2023
 
-### Web Development Intern  
-**GeekBase Technology** | Aug 2024 - Sep 2024  
-- Focused on web development with MySQL, Spring Boot, Java, HTML, CSS, and JavaScript.  
-- Developed skills in website development, UI/UX design, and version control.
+---
 
-### Product Manager Apprentice  
-**Startup201** | Apr 2024 - Jun 2024  
-- Gained expertise in product management tools and methodologies.  
-- Focused on UI/UX design and creating innovative product solutions.
+## 🏆 Achievements
 
-## 🏆 Certifications
+### **Honeywell India Youth Techathon 2022**  
+*April 2022 - June 2022*  
+- Secured **2nd place** for developing a **First Aid Bot** using UiPath.
+- Earned a **participation certificate** for outstanding performance.
 
-- **SEO for Beginners** - Great Learning Academy (Oct 2024)
-- **How to Schedule Posts to Multiple Platforms using Hootsuite** - Coursera (Oct 2024)
+---
 
-## 📬 Let's Connect!
+## 💻 Experience
 
-- [LinkedIn](https://www.linkedin.com/in/sai-esvar-p-27oct2001)
-- [Twitter](https://twitter.com/your-username)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+### **Web Development Intern**  
+**GeekBase Technology** · Namakkal, Tamil Nadu, India (Remote)  
+_August 2024 - September 2024_  
+- Developed expertise in web development technologies including **MySQL**, **Spring Boot**, **Java**, **HTML**, **CSS**, and **JavaScript**.  
+- Worked on real-world projects involving design, implementation, and maintenance of dynamic web applications.  
+- Utilized **GitHub** for version control, ensuring collaboration and efficient workflow.
 
-## 🎉 Fun Fact
+### **Product Management Apprentice**  
+**Startup201** · Tamil Nadu, India (Remote)  
+_April 2024 - June 2024_  
+- Gained hands-on experience with **User Experience (UX) design**, **market research**, **agile methodologies**, and **stakeholder engagement**.  
+- Collaborated with cross-functional teams to drive product innovation and efficiency.
 
-- I recently completed a **Student Partner Internship** at **Startup201** and gained essential skills in collaboration, problem-solving, and innovation.  
-- When I’m not coding, I’m exploring new digital marketing tools, designing user interfaces, and reading up on the latest tech trends.  
+### **Technical Support**  
+- Provided **technical support** to end-users by troubleshooting software and hardware issues and ensuring smooth operations.  
+- Delivered **quick and effective solutions** to clients, contributing to customer satisfaction.
 
-Looking forward to collaborating and learning from you all! 😄
+### **Frontend Developer**  
+- Focused on creating **user-friendly web interfaces** using front-end technologies.  
+- Designed and implemented **responsive web pages** using **HTML**, **CSS**, and **Bootstrap** to ensure usability and accessibility.
 
+---
+
+## 📱 Projects
+
+### **Home Remedies App**  
+_April 2022 - June 2022_  
+- **Back End**: UiPath Studio  
+- **Front End**: UiPath Apps  
+- **Purpose**: Provides users with various **home remedies** for common health issues.
+
+---
+
+## 🥇 Awards & Certifications
+
+- **CSS & Bootstrap Mastery**: Expertise in creating responsive and modern web designs.
+- **HTML Mastery**: Proficient in using HTML to structure dynamic web pages.
+- **Introduction to Software Product Management**: Knowledge in managing products from concept to market.
+- **Get Started with Jira**: Skilled in **Agile project management** using Jira.
+- **Google Ads for Beginners**: Knowledge in **digital marketing** and online advertising strategies.
+- **Foundations of User Experience (UX) Design with Figma**: Skills in wireframing, prototyping, and user-centered design using **Figma**.
+
+---
+
+## 🔧 Tech Skills
+
+- **Frontend Development**: HTML, CSS, Bootstrap, Wix Studio
+- **Backend Development**: MySQL, Spring Boot, Java
+- **Development Tools**: UiPath, Figma, GitHub
+- **Digital Marketing**: Google Ads, Google Analytics
+- **Project Management Tools**: Jira
+- **Technical Support**: Troubleshooting, Software/Hardware issue resolution
+
+---
+
+## 🌟 Key Qualities
+
+- 🎯 **Self-Discipline**
+- 🧠 **Logical Thinking**
+- 💬 **Effective Communication**
+- 🛠️ **Problem-Solving**
+- 🔍 **Attention to Detail**
+- 🚀 **Self-Motivation**
+- ⏳ **Time Management**
+
+---
+
+## 💡 Interests
+
+- 📈 **Product Management**
+- 📊 **Digital Marketing**
+- 💻 **Frontend Development**
+- 🛠️ **Technical Support**
+- 🖌️ **User Experience (UX) Design**
+
+---
+
+Thank you for visiting my profile! Feel free to connect with me through the [LinkedIn link](http://www.linkedin.com/in/sai-esvar-p-27oct2001) or email me at [saiesvarp@gmail.com](mailto:saiesvarp@gmail.com). Let's create something amazing together! 🚀
+
+---
+
+## 🌈 Toggle Dark/Light Mode
+
+To add a **dark/light mode toggle** to a hosted webpage (for example, GitHub Pages), you can implement the following:
+
+```html
+<!-- In HTML -->
+<button onclick="toggleTheme()">Toggle Dark/Light Mode</button>
+
+<script>
+  function toggleTheme() {
+    const body = document.body;
+    body.classList.toggle('dark-mode');
+    // Save the theme preference to local storage
+    if (body.classList.contains('dark-mode')) {
+      localStorage.setItem('theme', 'dark');
+    } else {
+      localStorage.setItem('theme', 'light');
+    }
+  }
+
+  // Check local storage for theme preference
+  window.onload = () => {
+    const savedTheme = localStorage.getItem('theme');
+    if (savedTheme === 'dark') {
+      document.body.classList.add('dark-mode');
+    }
+  };
+</script>
+
+<!-- In CSS -->
+<style>
+  body {
+    background-color: white;
+    color: black;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  body.dark-mode {
+    background-color: #121212;
+    color: white;
+  }
+</style>
