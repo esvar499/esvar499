@@ -1,109 +1,63 @@
-# SAI ESVAR P
+# Hello, I'm SAI ESVAR P 👋
 
-**Fresher | Digital Marketing Tools | Frontend Web Developer**
+Welcome to my GitHub profile! I’m a **Fresher | Digital Marketing Tools Enthusiast | Frontend Web Developer** passionate about leveraging technology to create meaningful solutions. I’m always eager to learn, grow, and contribute fresh ideas in dynamic teams.
 
-## About Me
+## 🌟 About Me
 
-I'm currently pursuing a Master’s in Computer Applications (MCA), with a Bachelor’s degree in Computer Science.  
+I am a motivated **Web Developer** skilled in **website development**, **digital marketing**, and **SEO optimization**. I am passionate about continuous learning, always on the lookout for innovative solutions that drive growth. My goal is to contribute to projects that create engaging online experiences and improve user engagement.
 
-Located in Gandhipuram, Tamil Nadu, I have a strong foundation in frontend and backend development.  
+Currently, I'm studying at **KGISL Institute of Information Management**, specializing in **Computer Science**, and I’m open to roles such as **UI Designer**, **Digital Marketing Manager**, and **UX Designer**.
 
-## Professional Experience
+## 💻 Technologies & Tools
 
-### Web Development Intern at GeekBase Technology
+- **Languages**: JavaScript, HTML, CSS, Java, SQL
+- **Frameworks & Libraries**: React, Node.js, Spring Boot
+- **Tools & Platforms**: Git, GitHub, Docker, Hootsuite, Canva, Google Analytics
+- **Databases**: MySQL, MongoDB
+- **Others**: SEO Optimization, UI/UX Design, Digital Marketing
 
-- Technical Support Specialist: Experienced in application design, troubleshooting, and enhancing user experiences.  
-- Product Management & UX Design: Certified in UX design with Figma and Jira, and skilled in agile methodologies.  
+## 🚀 Current Projects
 
-## Achievements and Certifications
+- **[Personalized Podcast App](https://github.com/your-username/podcast-app)**: Building an app with personalized podcast recommendations, focused on creating an engaging user experience.
+- **[Health & Wellness with Technology](https://github.com/your-username/health-tech-project)**: A project combining AI and technology to improve mental health and overall well-being.
+- **[Mann Ki Baat Quiz Participation](https://quiz.mygov.in/)**: Celebrating 10 years of the radio program with an educational quiz.
 
-- 2nd Place at Honeywell India Youth Techathon.  
-- Certifications in CSS, HTML, Software Management, Digital Marketing, and more.  
+## 📈 GitHub Stats
 
-## 🌐 Portfolio & Contact
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-- 📌 Portfolio: [Related to Me]  
-- 📧 Email: saiesvarp@gmail.com  
+## 🎓 Education
 
----
+- **KGISL Institute of Information Management**: BS in Computer Science (2023-2025)
+- **KG College of Arts and Science**: Bachelor of Science - Computer Science (2020-2023)
 
-## 🛠 Skills
+## 💡 Experience
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="28" height="28" alt="JavaScript" />
-  </a> 
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="28" height="28" alt="VS Code" />
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="28" height="28" alt="HTML5" />
-  </a> 
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="28" height="28" alt="CSS3" />
-  </a> 
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="28" height="28" alt="Bootstrap" />
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="28" height="28" alt="MySQL" />
-  </a> 
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="28" height="28" alt="Figma" />
-  </a> 
-  <a href="https://metamask.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="28" height="28" alt="MetaMask" />
-  </a> 
-  <a href="https://framer.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="28" height="28" alt="Framer" />
-  </a> 
-  <a href="https://wix.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="28" height="28" alt="Wix" />
-  </a> 
-</p>
+### Web Development Intern  
+**GeekBase Technology** | Aug 2024 - Sep 2024  
+- Focused on web development with MySQL, Spring Boot, Java, HTML, CSS, and JavaScript.  
+- Developed skills in website development, UI/UX design, and version control.
 
----
+### Product Manager Apprentice  
+**Startup201** | Apr 2024 - Jun 2024  
+- Gained expertise in product management tools and methodologies.  
+- Focused on UI/UX design and creating innovative product solutions.
 
-## 🌐 Connect with Me
+## 🏆 Certifications
 
-<p align="left">
-  <a href="https://www.codepen.io/esvar499" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="28" height="28" alt="CodePen" />
-  </a> 
-  <a href="https://www.github.com/esvar499" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="28" height="28" alt="GitHub" />
-  </a> 
-  <a href="http://www.instagram.com/sai_insights" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="28" height="28" alt="Instagram" />
-  </a> 
-  <a href="https://www.linkedin.com/in/sai-esvar-p-27oct2001/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" alt="LinkedIn" />
-  </a> 
-  <a href="http://www.medium.com/saiesvarp" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="28" height="28" alt="Medium" />
-  </a> 
-  <a href="https://www.x.com/imesvar" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="28" height="28" alt="Twitter" />
-  </a> 
-</p>
+- **SEO for Beginners** - Great Learning Academy (Oct 2024)
+- **How to Schedule Posts to Multiple Platforms using Hootsuite** - Coursera (Oct 2024)
 
----
+## 📬 Let's Connect!
 
-## 📊 GitHub Analysis
+- [LinkedIn](https://www.linkedin.com/in/sai-esvar-p-27oct2001)
+- [Twitter](https://twitter.com/your-username)
+- Email: [your.email@example.com](mailto:your.email@example.com)
 
-<h3 align="center"><b>My GitHub Stats</b></h3>
-<div align="center">
-  <a href="http://www.github.com/esvar499">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=esvar499&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-  </a> 
-  <br><br> 
-  <a href="http://www.github.com/esvar499">
-    <img src="https://github-readme-stats.vercel.app/api?username=esvar499&show_icons=true&count_private=true&hide_title=true&hide_border=true&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&title_color=0891b2" alt="Sai Esvar's GitHub Stats" />
-  </a> 
-  <br><br> 
-  <a href="http://www.github.com/esvar499">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=esvar499&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-  </a> 
-</div>
+## 🎉 Fun Fact
 
-</div>
+- I recently completed a **Student Partner Internship** at **Startup201** and gained essential skills in collaboration, problem-solving, and innovation.  
+- When I’m not coding, I’m exploring new digital marketing tools, designing user interfaces, and reading up on the latest tech trends.  
+
+Looking forward to collaborating and learning from you all! 😄
+
