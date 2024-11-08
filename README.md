@@ -4,10 +4,27 @@ I'm a **dedicated** and **detail-oriented** individual with expertise in **Compu
 
 ---
 
-📧 **Email**: [![Email](https://img.shields.io/badge/Email-saiesvarp%40gmail.com-red?style=flat&logo=gmail)](mailto:saiesvarp@gmail.com)  
-📍 **Location**: Gandhipuram, Tamil Nadu, India  
-📞 **Phone**: +91 9842136459  
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai%20Esvar%20P-blue?style=flat&logo=linkedin)](http://www.linkedin.com/in/sai-esvar-p-27oct2001) | [![GitHub](https://img.shields.io/badge/GitHub-esvar499-black?style=flat&logo=github)](https://github.com/esvar499)
+# Contact Information
+
+## 📧 Email  
+[saiesvarp@gmail.com](mailto:saiesvarp@gmail.com)
+
+---
+
+## 📍 Location  
+**Gandhipuram, Tamil Nadu, India**
+
+---
+
+## 📞 Phone  
++91 9842136459
+
+---
+
+## 🔗 Social Links  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai%20Esvar%20P-blue?style=flat&logo=linkedin)](http://www.linkedin.com/in/sai-esvar-p-27oct2001)  
+- [![GitHub](https://img.shields.io/badge/GitHub-esvar499-black?style=flat&logo=github)](https://github.com/esvar499)  
+- [![Portfolio](https://linktr.ee/sai_esvar)](https://linktr.ee/sai_esvar)
 
 ---
 
