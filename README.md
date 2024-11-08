@@ -131,11 +131,13 @@ Thank you for visiting my profile! Feel free to connect with me through the [Lin
 
 ## 🌈 Toggle Dark/Light Mode
 
-To add a **dark/light mode toggle** to a hosted webpage (for example, GitHub Pages), you can implement the following:
+Here is a button to toggle between dark and light modes. This functionality is implemented using JavaScript and CSS. Simply click the button below to change the theme.
 
 ```html
-<!-- In HTML -->
-<button onclick="toggleTheme()">Toggle Dark/Light Mode</button>
+<!-- Button for theme toggle -->
+<button onclick="toggleTheme()" style="padding: 10px; background-color: #4CAF50; color: white; border: none; cursor: pointer; border-radius: 5px;">
+  Toggle Dark/Light Mode
+</button>
 
 <script>
   function toggleTheme() {
@@ -158,15 +160,20 @@ To add a **dark/light mode toggle** to a hosted webpage (for example, GitHub Pag
   };
 </script>
 
-<!-- In CSS -->
+<!-- CSS for Dark Mode -->
 <style>
   body {
     background-color: white;
     color: black;
     transition: background-color 0.3s, color 0.3s;
   }
+
   body.dark-mode {
     background-color: #121212;
     color: white;
+  }
+
+  button {
+    margin-top: 20px;
   }
 </style>
