@@ -129,51 +129,15 @@ Thank you for visiting my profile! Feel free to connect with me through the [Lin
 
 ---
 
-## 🌈 Toggle Dark/Light Mode
+## 🦸‍♂️ GitHub Stats
 
-Here is a button to toggle between dark and light modes. This functionality is implemented using JavaScript and CSS. Simply click the button below to change the theme.
+Here are my GitHub stats:
 
-```html
-<!-- Button for theme toggle -->
-<button onclick="toggleTheme()" style="padding: 10px; background-color: #4CAF50; color: white; border: none; cursor: pointer; border-radius: 5px;">
-  Toggle Dark/Light Mode
-</button>
+[![Sai Esvar P's GitHub Stats](https://github-readme-stats.vercel.app/api?username=esvar499&count_private=true&show_icons=true&hide_title=true&hide=prs&hide_border=true&theme=radical)](https://github.com/esvar499)
 
-<script>
-  function toggleTheme() {
-    const body = document.body;
-    body.classList.toggle('dark-mode');
-    // Save the theme preference to local storage
-    if (body.classList.contains('dark-mode')) {
-      localStorage.setItem('theme', 'dark');
-    } else {
-      localStorage.setItem('theme', 'light');
-    }
-  }
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esvar499&count_private=true&layout=compact&hide_border=true&theme=radical)](https://github.com/esvar499)
 
-  // Check local storage for theme preference
-  window.onload = () => {
-    const savedTheme = localStorage.getItem('theme');
-    if (savedTheme === 'dark') {
-      document.body.classList.add('dark-mode');
-    }
-  };
-</script>
+---
 
-<!-- CSS for Dark Mode -->
-<style>
-  body {
-    background-color: white;
-    color: black;
-    transition: background-color 0.3s, color 0.3s;
-  }
+These GitHub stats are powered by the [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) API. They give a snapshot of my activity, most used languages, and overall contributions.
 
-  body.dark-mode {
-    background-color: #121212;
-    color: white;
-  }
-
-  button {
-    margin-top: 20px;
-  }
-</style>
