@@ -97,7 +97,12 @@ _April 2022 - June 2022_
 - ⏳ **Time Management**
 
 ---
+## 🦸‍♂️ GitHub Stats
 
+![Sai Esvar P's GitHub Stats](https://github-readme-stats.vercel.app/api?username=esvar499&count_private=true&show_icons=true&hide_title=true&hide=prs&hide_border=true&theme=radical)
+
+### Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esvar499&count_private=true&layout=compact&hide_border=true&theme=radical)
 ## 💡 Interests
 
 - 📈 **Product Management**
