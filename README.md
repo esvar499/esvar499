@@ -1,15 +1,13 @@
 # 👋 Hi, I'm Sai Esvar P
 
-![Coder Image](https://cdn-icons-png.flaticon.com/512/3135/3135715.png)
-
 I'm a **dedicated** and **detail-oriented** individual with expertise in **Computer Science**, **Web Development**, and **Technical Support**. I am passionate about applying my skills in real-world settings, driving growth, and continuously learning. 🚀
 
 ---
 
-📧 **Email**: [saiesvarp@gmail.com](mailto:saiesvarp@gmail.com)  
+📧 **Email**: [![Email](https://img.shields.io/badge/Email-saiesvarp%40gmail.com-red?style=flat&logo=gmail)](mailto:saiesvarp@gmail.com)  
 📍 **Location**: Gandhipuram, Tamil Nadu, India  
 📞 **Phone**: +91 9842136459  
-🔗 [LinkedIn](http://www.linkedin.com/in/sai-esvar-p-27oct2001) | [GitHub](https://github.com/esvar499)
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai%20Esvar%20P-blue?style=flat&logo=linkedin)](http://www.linkedin.com/in/sai-esvar-p-27oct2001) | [![GitHub](https://img.shields.io/badge/GitHub-esvar499-black?style=flat&logo=github)](https://github.com/esvar499)
 
 ---
 
@@ -107,16 +105,4 @@ _April 2022 - June 2022_
 - 🛠️ **Technical Support**
 - 🖌️ **User Experience (UX) Design**
 
----
-
-### Thank you for visiting my profile!  
-Let's connect and create something amazing together! 🚀
-
----
-
-## 🦸‍♂️ GitHub Stats
-
-![Sai Esvar P's GitHub Stats](https://github-readme-stats.vercel.app/api?username=esvar499&count_private=true&show_icons=true&hide_title=true&hide=prs&hide_border=true&theme=radical)
-
-### Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esvar499&count_private=true&layout=compact&hide_border=true&theme=radical)
+--
