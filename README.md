@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sai Esvar P
 
-I am a **dedicated and detail-focused individual** with a strong foundation in **Computer Science**, **Web Development**, and **Technical Support**. My goal is to apply my knowledge and skills in a practical environment, contributing effectively to the success of organizations while continuously learning and growing professionally through hands-on experience.
+I am a **dedicated and detail-focused individual** with a strong foundation in **Computer Science**, **Web Development**, and **Technical Support**. My goal is to apply my knowledge and skills in a practical environment, contributing effectively to the success of organizations while continuously learning and growing professionally through hands-on experience. 🚀
 
 ---
 
@@ -25,12 +25,12 @@ You can find me on these platforms:
 
 ## 🎓 Education
 
-### **Post Graduate**  
+### **Post Graduate** 🎓  
 **KGISL Institute of Information Management**  
 **Master of Computer Application (MCA)**  
 2023 - Present
 
-### **Bachelor's Degree**  
+### **Bachelor's Degree** 🎓  
 **KG College of Arts and Science**  
 **B.Sc. Computer Science**  
 2020 - 2023
@@ -39,67 +39,66 @@ You can find me on these platforms:
 
 ## 🏆 Achievements
 
-### **Honeywell India Youth Techathon 2022**  
+### **Honeywell India Youth Techathon 2022** 🏅  
 *April 2022 - June 2022*  
-- Secured **2nd place** for developing a **First Aid Bot** using UiPath.
-- Earned a **participation certificate** for outstanding performance.
+- Secured **2nd place** for developing a **First Aid Bot** using UiPath. 🤖  
+- Earned a **participation certificate** for outstanding performance. 🏆
 
 ---
 
 ## 💻 Experience
 
-### **Web Development Intern**  
+### **Web Development Intern** 💻  
 **GeekBase Technology** · Namakkal, Tamil Nadu, India (Remote)  
 _August 2024 - September 2024_  
-- Developed expertise in web development technologies including **MySQL**, **Spring Boot**, **Java**, **HTML**, **CSS**, and **JavaScript**.  
-- Worked on real-world projects involving design, implementation, and maintenance of dynamic web applications.  
-- Utilized **GitHub** for version control, ensuring collaboration and efficient workflow.
+- Developed expertise in web development technologies including **MySQL**, **Spring Boot**, **Java**, **HTML**, **CSS**, and **JavaScript**. 💻  
+- Worked on real-world projects involving design, implementation, and maintenance of dynamic web applications. 🔧  
+- Utilized **GitHub** for version control, ensuring collaboration and efficient workflow. 🛠️
 
-### **Product Management Apprentice**  
+### **Product Management Apprentice** 📦  
 **Startup201** · Tamil Nadu, India (Remote)  
 _April 2024 - June 2024_  
-- Gained hands-on experience with **User Experience (UX) design**, **market research**, **agile methodologies**, and **stakeholder engagement**.  
-- Collaborated with cross-functional teams to drive product innovation and efficiency.
+- Gained hands-on experience with **User Experience (UX) design**, **market research**, **agile methodologies**, and **stakeholder engagement**. 📊  
+- Collaborated with cross-functional teams to drive product innovation and efficiency. 💡
 
-### **Technical Support**  
-- Provided **technical support** to end-users by troubleshooting software and hardware issues and ensuring smooth operations.  
-- Delivered **quick and effective solutions** to clients, contributing to customer satisfaction.
+### **Technical Support** 🖥️  
+- Provided **technical support** to end-users by troubleshooting software and hardware issues and ensuring smooth operations. ⚙️  
+- Delivered **quick and effective solutions** to clients, contributing to customer satisfaction. 👍
 
-### **Frontend Developer**  
-- Focused on creating **user-friendly web interfaces** using front-end technologies.  
-- Designed and implemented **responsive web pages** using **HTML**, **CSS**, and **Bootstrap** to ensure usability and accessibility.
+### **Frontend Developer** 🌐  
+- Focused on creating **user-friendly web interfaces** using front-end technologies. 👨‍💻  
+- Designed and implemented **responsive web pages** using **HTML**, **CSS**, and **Bootstrap** to ensure usability and accessibility. 📱
 
 ---
 
 ## 📱 Projects
 
-### **Home Remedies App**  
+### **Home Remedies App** 🏠  
 _April 2022 - June 2022_  
 - **Back End**: UiPath Studio  
 - **Front End**: UiPath Apps  
-- **Purpose**: Provides users with various **home remedies** for common health issues.  
-- [**GitHub Link**](https://github.com/esvar499/Home-Remedies-App)
+- **Purpose**: Provides users with various **home remedies** for common health issues. 🌱
 
 ---
 
 ## 🥇 Awards & Certifications
 
-- **CSS & Bootstrap Mastery**: Expertise in creating responsive and modern web designs.
-- **HTML Mastery**: Proficient in using HTML to structure dynamic web pages.
-- **Introduction to Software Product Management**: Knowledge in managing products from concept to market.
-- **Get Started with Jira**: Skilled in **Agile project management** using Jira.
-- **Google Ads for Beginners**: Knowledge in **digital marketing** and online advertising strategies.
-- **Foundations of User Experience (UX) Design with Figma**: Skills in wireframing, prototyping, and user-centered design using **Figma**.
+- **CSS & Bootstrap Mastery** 🖌️: Expertise in creating responsive and modern web designs.
+- **HTML Mastery** 🌐: Proficient in using HTML to structure dynamic web pages.
+- **Introduction to Software Product Management** 📋: Knowledge in managing products from concept to market.
+- **Get Started with Jira** 📊: Skilled in **Agile project management** using Jira.
+- **Google Ads for Beginners** 📈: Knowledge in **digital marketing** and online advertising strategies.
+- **Foundations of User Experience (UX) Design with Figma** 🎨: Skills in wireframing, prototyping, and user-centered design using **Figma**.
 
 ---
 
 ## 🔧 Tech Skills
 
-- **Frontend Development**: HTML, CSS, Bootstrap, Wix Studio
-- **Backend Development**: MySQL, Spring Boot, Java
-- **Development Tools**: UiPath, Figma, GitHub
-- **Digital Marketing**: Google Ads, Google Analytics
-- **Project Management Tools**: Jira
+- **Frontend Development**: HTML, CSS, Bootstrap, Wix Studio  
+- **Backend Development**: MySQL, Spring Boot, Java  
+- **Development Tools**: UiPath, Figma, GitHub  
+- **Digital Marketing**: Google Ads, Google Analytics  
+- **Project Management Tools**: Jira  
 - **Technical Support**: Troubleshooting, Software/Hardware issue resolution
 
 ---
@@ -130,9 +129,9 @@ Thank you for visiting my profile! Feel free to connect with me through the [Lin
 
 ---
 
-## 🦸‍♂️ GitHub Stats & Projects
+## 🦸‍♂️ GitHub Stats
 
-Here are my GitHub stats and project links:
+Here are my GitHub stats:
 
 ### **GitHub Stats**  
 [![Sai Esvar P's GitHub Stats](https://github-readme-stats.vercel.app/api?username=esvar499&count_private=true&show_icons=true&hide_title=true&hide=prs&hide_border=true&theme=radical)](https://github.com/esvar499)
@@ -141,10 +140,3 @@ Here are my GitHub stats and project links:
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esvar499&count_private=true&layout=compact&hide_border=true&theme=radical)](https://github.com/esvar499)
 
 ---
-
-
-
----
-
-
-
