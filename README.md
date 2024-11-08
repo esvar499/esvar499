@@ -142,12 +142,9 @@ Here are my GitHub stats and project links:
 
 ---
 
-### My Featured Projects:
 
-- **[Home Remedies App](https://github.com/esvar499/Home-Remedies-App)**: A simple app that suggests home remedies for common health issues.
-- **[First Aid Bot](https://github.com/esvar499/First-Aid-Bot)**: A bot created during the **Honeywell India Youth Techathon** that provides first aid tips.
 
 ---
 
-These GitHub stats and project links are powered by the [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) API. They give a snapshot of my activity, most used languages, and overall contributions. Feel free to check out the projects and contribute if you're interested!
+
 
