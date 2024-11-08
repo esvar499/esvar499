@@ -77,7 +77,8 @@ _April 2024 - June 2024_
 _April 2022 - June 2022_  
 - **Back End**: UiPath Studio  
 - **Front End**: UiPath Apps  
-- **Purpose**: Provides users with various **home remedies** for common health issues.
+- **Purpose**: Provides users with various **home remedies** for common health issues.  
+- [**GitHub Link**](https://github.com/esvar499/Home-Remedies-App)
 
 ---
 
@@ -129,15 +130,24 @@ Thank you for visiting my profile! Feel free to connect with me through the [Lin
 
 ---
 
-## 🦸‍♂️ GitHub Stats
+## 🦸‍♂️ GitHub Stats & Projects
 
-Here are my GitHub stats:
+Here are my GitHub stats and project links:
 
+### **GitHub Stats**  
 [![Sai Esvar P's GitHub Stats](https://github-readme-stats.vercel.app/api?username=esvar499&count_private=true&show_icons=true&hide_title=true&hide=prs&hide_border=true&theme=radical)](https://github.com/esvar499)
 
+### **Top Languages**  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esvar499&count_private=true&layout=compact&hide_border=true&theme=radical)](https://github.com/esvar499)
 
 ---
 
-These GitHub stats are powered by the [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) API. They give a snapshot of my activity, most used languages, and overall contributions.
+### My Featured Projects:
+
+- **[Home Remedies App](https://github.com/esvar499/Home-Remedies-App)**: A simple app that suggests home remedies for common health issues.
+- **[First Aid Bot](https://github.com/esvar499/First-Aid-Bot)**: A bot created during the **Honeywell India Youth Techathon** that provides first aid tips.
+
+---
+
+These GitHub stats and project links are powered by the [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) API. They give a snapshot of my activity, most used languages, and overall contributions. Feel free to check out the projects and contribute if you're interested!
 
