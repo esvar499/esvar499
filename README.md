@@ -24,7 +24,7 @@ I'm a **dedicated** and **detail-oriented** individual with expertise in **Compu
 ## 🔗 Social Links  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai%20Esvar%20P-blue?style=flat&logo=linkedin)](http://www.linkedin.com/in/sai-esvar-p-27oct2001)  
 - [![GitHub](https://img.shields.io/badge/GitHub-esvar499-black?style=flat&logo=github)](https://github.com/esvar499)  
-- [![Portfolio](https://linktr.ee/sai_esvar)](https://linktr.ee/sai_esvar)
+- [![Portfolio](https://linktr.ee/sai_esvar)](https://linktr.ee/sai_esvar)]
 
 ---
 
