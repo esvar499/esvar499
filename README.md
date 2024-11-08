@@ -8,24 +8,16 @@ I'm a **dedicated** and **detail-oriented** individual with expertise in **Compu
 
 ## 📧 Email  
 [saiesvarp@gmail.com](mailto:saiesvarp@gmail.com)
-
----
-
 ## 📍 Location  
 **Gandhipuram, Tamil Nadu, India**
-
----
-
 ## 📞 Phone  
 +91 9842136459
-
 ---
 
 ## 🔗 Social Links  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai%20Esvar%20P-blue?style=flat&logo=linkedin)](http://www.linkedin.com/in/sai-esvar-p-27oct2001)  
 - [![GitHub](https://img.shields.io/badge/GitHub-esvar499-black?style=flat&logo=github)](https://github.com/esvar499)  
-- [![Portfolio](https://linktr.ee/sai_esvar)](https://linktr.ee/sai_esvar)]
-
+- [![Portfolio](https://img.shields.io/badge/Portfolio-sai_esvar-lightgrey?style=flat&logo=link) ](https://linktr.ee/sai_esvar)
 ---
 
 ## 🎓 Education
@@ -114,17 +106,18 @@ _April 2022 - June 2022_
 - ⏳ **Time Management**
 
 ---
-## 🦸‍♂️ GitHub Stats
-
-![Sai Esvar P's GitHub Stats](https://github-readme-stats.vercel.app/api?username=esvar499&count_private=true&show_icons=true&hide_title=true&hide=prs&hide_border=true&theme=radical)
-
-### Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esvar499&count_private=true&layout=compact&hide_border=true&theme=radical)
 ## 💡 Interests
 
 - 📈 **Product Management**
 - 💻 **Frontend Development**
 - 🛠️ **Technical Support**
 - 🖌️ **User Experience (UX) Design**
+
+## 🦸‍♂️ GitHub Stats
+
+![Sai Esvar P's GitHub Stats](https://github-readme-stats.vercel.app/api?username=esvar499&count_private=true&show_icons=true&hide_title=true&hide=prs&hide_border=true&theme=radical)
+
+### Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esvar499&count_private=true&layout=compact&hide_border=true&theme=radical)
 
 --
