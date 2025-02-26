@@ -26,7 +26,7 @@ I'm a **dedicated** and **detail-oriented** individual with expertise in **Compu
 - [![GitHub](https://img.shields.io/badge/GitHub-esvar499-black?style=flat&logo=github)](https://github.com/esvar499)  
 - [![Portfolio](https://img.shields.io/badge/Portfolio-sai_esvar-lightgrey?style=flat&logo=link)](https://linktr.ee/sai_esvar)  
 - [![Medium](https://img.shields.io/badge/Medium-sai_esvar-00ab6c?style=flat&logo=medium)](https://medium.com/@saiesvarp)  
-- [![Instagram](https://img.shields.io/badge/Instagram-sai_insights-purple?style=flat&logo=instagram)](https://www.instagram.com/sai_insights)  
+- [![Instagram](https://img.shields.io/badge/Instagram-sai_insights-purple?style=flat&logo=instagram)](https://www.instagram.com/saiesvarp/)  
 - [![X](https://img.shields.io/badge/X-imesvar-1da1f2?style=flat&logo=x)](https://x.com/imesvar)
 
 ---
