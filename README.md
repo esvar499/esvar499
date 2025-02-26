@@ -87,12 +87,12 @@ _April 2022 - June 2022_
 
 ## 🥇 Certifications
 
-- **CSS & Bootstrap Mastery** 🖌️
-- **HTML Mastery** 🌐
-- **Software Product Management** 📋 (Introduction to Software Product Management)
-- **Agile Project Management** 📊 (Get Started with Jira)
-- **Digital Marketing** 📈 (Google Ads for Beginners)
-- **UX Design with Figma** 🎨 (Foundations of User Experience)
+- **CSS & Bootstrap Mastery** 🖌️  
+- **HTML Mastery** 🌐  
+- **Software Product Management** 📋 (Introduction to Software Product Management)  
+- **Agile Project Management** 📊 (Get Started with Jira)  
+- **Digital Marketing** 📈 (Google Ads for Beginners)  
+- **UX Design with Figma** 🎨 (Foundations of User Experience)  
 
 ---
 
@@ -102,27 +102,28 @@ _April 2022 - June 2022_
 - **Backend**: MySQL, Spring Boot, Java  
 - **Tools**: UiPath, Figma, GitHub  
 - **Digital Marketing**: Google Ads, Google Analytics  
-- **Project Management**: Jira
+- **Project Management**: Jira  
 
 ---
 
 ## 🌟 Key Strengths
 
-- 🎯 **Self-Discipline**
-- 🧠 **Logical Thinking**
-- 💬 **Effective Communication**
-- 🛠️ **Problem Solving**
-- 🔍 **Attention to Detail**
-- 🚀 **Self-Motivation**
-- ⏳ **Time Management**
+- 🎯 **Self-Discipline**  
+- 🧠 **Logical Thinking**  
+- 💬 **Effective Communication**  
+- 🛠️ **Problem Solving**  
+- 🔍 **Attention to Detail**  
+- 🚀 **Self-Motivation**  
+- ⏳ **Time Management**  
 
 ---
+
 ## 💡 Interests
 
-- 📈 **Product Management**
-- 💻 **Frontend Development**
-- 🛠️ **Technical Support**
-- 🖌️ **User Experience (UX) Design**
+- 📈 **Product Management**  
+- 💻 **Frontend Development**  
+- 🛠️ **Technical Support**  
+- 🖌️ **User Experience (UX) Design**  
 
 ## 🦸‍♂️ GitHub Stats
 
@@ -130,5 +131,3 @@ _April 2022 - June 2022_
 
 ### Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esvar499&count_private=true&layout=compact&hide_border=true&theme=radical)
-
---
